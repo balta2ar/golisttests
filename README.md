@@ -2,6 +2,12 @@
 
 A helper that lists test names starting from the current directory. Used to provide completion candidates when integrating with fzf.
 
+## Demo
+
+![demo](https://user-images.githubusercontent.com/340676/173246352-5afc4f59-9aa6-4566-8223-6ba0757d2f73.svg)
+
+![asciinema](https://asciinema.org/a/RM2YqSPsJFLox6lMu4jgRhvqJ)
+
 ## How it works
 
 There are two approaches:
